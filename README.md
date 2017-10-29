@@ -90,3 +90,19 @@ Este reto será evaluado sobre lo siguiente:
 * Indentación
 * Archivo `README.md` actualizado y correctamente redactado
 * Uso de comentarios para hacer tu código más legible
+
+
+
+# Mi Readme
+
+## Primera Parte
+#### Coloque un header junto con un nav para que el navegador reconozca que es un menú, coloque la imagen del logo y le di tamaño para ajustarlo como en la página original, luego utilice un div para poner las palabras que estan ubicadas del lado derecho de la página y la puse en línea.. Coloque la imagen git de fondo y con otro div hice el formulario, en este utilice de nuevo las etiqueta input y button cada una de estas las coloque en un div para poder ubicarlas con position 
+
+## Segunda Parte 
+#### Acá empece a separar por secciones para que se pueda diferenciar cada una, lo cual todas las secciones las coloque dentro de una etiqueta main. En la segunda sección también utilice las etiquetas div para texto utilice <h2> y <p> para que se distingan los títulos de los párrafos y coloque la imagen del telefono lo cual le di tamaño para ajustarlo de la mejor foma posible y posicionarlos con position.
+
+## Tercera, Cuarta y Quinta Parte (Videos)
+#### En estas secciones ubique el video con la etiqueta <iframe> lo cual representa un contexto de navegación anidada a nuestro html, y de nuevo utilice etiquetas como <h5> y <h2> ubicandolos con position para los párrafos que están a los lados de los videos. Adaptandolos de la mejor manera a mi página web.
+
+## Última Parte
+#### Realice 3 columnas que contenian 1 título con su texto, a esas columnas le coloque un hover para que cambiara a color rosado cuando el cursor pasara por encima de la palabra. Inserte los logos de las app de descargar y le coloque position para posicionarlos de la mejor manera como la página original y luego coloque los iconos dandode un borde redondo con radius y colocandole padding para que se colocaran en el centro del círculo. 
